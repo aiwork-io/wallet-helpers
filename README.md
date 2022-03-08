@@ -1,4 +1,5 @@
 # Wallet Helpers
+This repo contains the code and set-up instructions of the wallet helper which verifies the awo transaction between the wallet of the user procuring AI resources and the the marketplace wallet
 
 ## How to deploy
 
